@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frostprimex/notes-app.git/static/css/main.dfc1c18e.css",
+    "main.js": "/frostprimex/notes-app.git/static/js/main.baf5498b.js",
+    "index.html": "/frostprimex/notes-app.git/index.html",
+    "main.dfc1c18e.css.map": "/frostprimex/notes-app.git/static/css/main.dfc1c18e.css.map",
+    "main.baf5498b.js.map": "/frostprimex/notes-app.git/static/js/main.baf5498b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc1c18e.css",
+    "static/js/main.baf5498b.js"
+  ]
+}
